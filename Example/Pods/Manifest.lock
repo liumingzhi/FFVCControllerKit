@@ -1,0 +1,16 @@
+PODS:
+  - FFVCControllerKit (0.1.0)
+
+DEPENDENCIES:
+  - FFVCControllerKit (from `../`)
+
+EXTERNAL SOURCES:
+  FFVCControllerKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FFVCControllerKit: 26d92c002932f1350b2824a03b3008528cc620fb
+
+PODFILE CHECKSUM: 6a5fcb7bfe81263553f61f83345e6d3607f979ee
+
+COCOAPODS: 1.9.3

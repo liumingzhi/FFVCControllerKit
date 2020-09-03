@@ -1,0 +1,22 @@
+{
+  "name": "FFVCControllerKit",
+  "version": "0.1.0",
+  "summary": "A short description of FFVCControllerKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/liumingzhi912@163.com/FFVCControllerKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "liumingzhi912@163.com": "liumingzhi003@ke.com"
+  },
+  "source": {
+    "git": "https://github.com/liumingzhi912@163.com/FFVCControllerKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FFVCControllerKit/Classes/**/*"
+}

@@ -1,0 +1,6 @@
+framework module FFVCControllerKit {
+  umbrella header "FFVCControllerKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
