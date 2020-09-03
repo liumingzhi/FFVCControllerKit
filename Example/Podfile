@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'FFVCControllerKit_Example' do
+  pod 'FFVCControllerKit', :path => '../'
+
+  target 'FFVCControllerKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
